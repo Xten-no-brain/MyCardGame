@@ -24,7 +24,7 @@
 
 #include "HelloWorldScene.h"
 #include "SimpleAudioEngine.h"
-#include "configs/LevelConfig.h"
+#include "LevelConfig.h"
 
 
 USING_NS_CC;
