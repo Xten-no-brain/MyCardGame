@@ -7,4 +7,8 @@
 编译生成 Debug.win32
 然后在根目录 CMakeListst.txt 中链接这一根目录
 
-注意 cocos2d.lib
+注意 
+cocos2d.lib
+glew.h glew32.dll glew32.lib
+glfw3.h glfw3native.h glfw3.lib
+
